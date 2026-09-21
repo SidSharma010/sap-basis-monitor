@@ -1,0 +1,12 @@
+{
+  "disk_usage_pct": {"data": 61, "log": 40},
+  "used_memory_pct": 68,
+  "failed_jobs": [],
+  "cancelled_jobs": [],
+  "dumps_last_24h": 1,
+  "lock_wait_max_seconds": 4,
+  "backup_last_success_hours_ago": 9,
+  "free_dialog_work_process_pct": 55,
+  "active_connections": 140
+}
+
