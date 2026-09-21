@@ -1,0 +1,12 @@
+{
+  "disk_usage_pct": {"data": 93, "log": 55},
+  "used_memory_pct": 88,
+  "failed_jobs": ["ZBACKUP_NIGHTLY", "ZINTERFACE_SYNC_HOURLY"],
+  "cancelled_jobs": ["ZREPORT_ADHOC_1832"],
+  "dumps_last_24h": 27,
+  "lock_wait_max_seconds": 340,
+  "backup_last_success_hours_ago": 51,
+  "free_dialog_work_process_pct": 8,
+  "active_connections": 512
+}
+
